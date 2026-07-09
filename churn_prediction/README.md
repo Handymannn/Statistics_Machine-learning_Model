@@ -2,6 +2,7 @@
 ## Business result:  Reduce the time and effort required to identify potentially churning customers, enabling the business to offer appropriate packages or promotions to retain them in advance<br>
 ### Methodology: Logistic regression model
 
+
 dataset = Databel.csv
 Meta data
 Customer ID = A unique identifier assigned to each customer

@@ -1,6 +1,6 @@
-## Business objective: To predict customers who have a high potential to churn from the business<br>
-## Business result:  Reduce the time and effort required to identify potentially churning customers, enabling the business to offer appropriate packages or promotions to retain them in advance<br>
-### Methodology: Logistic regression model
+##Business objective: To predict customers who have a high potential to churn from the business<br>
+##Business result:  Reduce the time and effort required to identify potentially churning customers, enabling the business to offer appropriate packages or promotions to retain them in advance<br>
+###Methodology: Logistic regression model
 
 dataset = Databel.csv
 Meta data
@@ -31,3 +31,4 @@ Contract Type = Type of service contract
 Payment Method = Method of payment
 Monthly Charge = Monthly subscription fee
 Total Charges = Total outstanding service fees
+---
